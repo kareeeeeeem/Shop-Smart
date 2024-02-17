@@ -1,4 +1,11 @@
 shop_smart
+
+vedio Presentation
+
+https://github.com/kareeeeeeem/Shop-Smart/assets/88625235/e1aeedba-a765-4a9d-826f-8b7d09c13939
+
+
+
 Slide 1: Presentation Title
 
 View the project title: "Shop Smart: Improving the shopping experience with innovative features."
